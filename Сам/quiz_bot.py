@@ -24,7 +24,7 @@ LOGIN = "online_539"
 PASSWORD = "123456"
 BASE_URL = "https://battle.aiplus.kz/polyglot/login"
 HISTORY_URL = "https://battle.aiplus.kz/polyglot/ent/kz_history"
-DELAY_SECONDS = 10            # Задержка перед кликом (имитация человека)
+DELAY_SECONDS = 1           # Задержка перед кликом (имитация человека)
 CACHE_FILE = "answer_cache.json"
 REQUIRED_ATTEMPTS = 5         # В каждой теме надо ровно 5 раз получить 90%+
 
