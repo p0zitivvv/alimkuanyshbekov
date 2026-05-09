@@ -1,0 +1,2 @@
+cd C:\Users\kuany\Desktop\Сам
+python quiz_bot.py
